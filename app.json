@@ -1,0 +1,8 @@
+{
+  "name": "heroku-go-simple",
+  "description": "A simple go app that can run on Heroku",
+  "repository": "https://github.com/ansidev/heroku-go-simple",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Go_Logo_Aqua.svg/440px-Go_Logo_Aqua.svg.png",
+  "keywords": ["go", "web", "docker"],
+  "stack": "container"
+}
